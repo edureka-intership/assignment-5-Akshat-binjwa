@@ -1,0 +1,38 @@
+[
+    {
+        "_id": "1",
+        "name": "Breakfast",
+        "content": "Start your day with exclusive breakfast options",
+        "meal_type": 1
+    },
+    {
+        "_id": "2",
+        "name": "Lunch",
+        "content": "Start your day with exclusive breakfast options",
+        "meal_type": 2
+    },
+    {
+        "_id": "3",
+        "name": "Dinner",
+        "content": "Start your day with exclusive breakfast options",
+        "meal_type": 3
+    },
+    {
+        "_id": "4",
+        "name": "Snacks",
+        "content": "Start your day with exclusive breakfast options",
+        "meal_type": 4
+    },
+    {
+        "_id": "5",
+        "name": "Drinks",
+        "content": "Start your day with exclusive breakfast options",
+        "meal_type": 5
+    },
+    {
+        "_id": "6",
+        "name": "NightLife",
+        "content": "Start your day with exclusive breakfast options",
+        "meal_type": 6
+    }
+]

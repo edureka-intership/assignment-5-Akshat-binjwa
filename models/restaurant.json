@@ -1,0 +1,22 @@
+[
+    {
+        "name":"KFC",
+        "city":"Delhi",
+        "meal":"burger"
+    },
+    {
+        "name":"ICECREAM",
+        "city":"Pune",
+        "meal":"icream"
+    },
+    {
+        "name":"DOMINOS",
+        "city":"Indore",
+        "meal":"pizza"
+    },
+    {
+        "name":"Paratha",
+        "city":"Dubai",
+        "meal":"pizza"
+    }
+]
